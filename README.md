@@ -1,4 +1,7 @@
 Credit Card Fraud Detection
+
+
+
 This project focuses on detecting fraudulent credit card transactions using machine learning techniques. The dataset used is highly imbalanced, with a significantly higher number of non-fraudulent transactions compared to fraudulent ones. To address this imbalance, techniques like SMOTE (Synthetic Minority Over-sampling Technique) have been employed to improve the model's performance.
 
 Table of Contents
